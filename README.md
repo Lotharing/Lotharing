@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lotharing&show_icons=true&theme=algolia&include_all_commits=true&hide=contribs&count_private=true&line_height=32" style="vertical-align:top;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lotharing&show_icons=true&theme=algolia&langs_count=3&layout=default&hide_border=false&hide=html,css" style="vertical-align:top;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lotharing&show_icons=true&theme=algolia&langs_count=3&layout=default&hide_border=false" style="vertical-align:top;">
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lotharing&color=blue&label=views" alt="小路" /> </p>
