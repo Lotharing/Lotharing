@@ -4,7 +4,7 @@
       Hi there 👋
     </strong>
     <br><br>
-    I'm 小路, 不务正业的我，偶尔在coidng的路上.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="32" height="32" /><br>
+    I'm 小路, 不务正业的我，偶尔在coding的路上.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="32" height="32" /><br>
     Focus on Java | Spring | Database.
     <br><br>
   </samp>
@@ -26,15 +26,21 @@
 **- Languages and Tools:**  
 
 <div align="center">
-<!-- 
-  <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=go"><img height="20" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
-   <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=python"><img height="20" src="https://img.shields.io/badge/-Python-0095D5?style=for-the-badge&logo=Python&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
-  <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=python"><img height="20" src="https://img.shields.io/badge/-TensorFlow-FF7F50?style=for-the-badge&logo=tensorflow&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
-   <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=python"><img height="20" src="https://img.shields.io/badge/-MongoDB-2E8B57?style=for-the-badge&logo=MongoDB&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
-   <code><a href="https://github.com/Evilran?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Redis-DC143C?style=for-the-badge&logo=Redis&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
-  <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=php"><img height="20" src="https://img.shields.io/badge/-PHP-0078DC?style=for-the-badge&logo=PHP&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
-  <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=php"><img height="20" src="https://img.shields.io/badge/-Laravel-3776AB?style=for-the-badge&logo=laravel&logoColor=fff" style="vertical-align:top; margin:4px"></a></code> -->
-
+ 
+ <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Java-ed5a65?style=for-the-badge&logo=Java&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+ 
+ <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Spring-229453?style=for-the-badge&logo=Spring&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+  
+ <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Mysql-346c9c?style=for-the-badge&logo=Mysql&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+   
+   <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-RabbitMQ-fc8c23?style=for-the-badge&logo=Rabbitmq&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+   
+   <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src=" https://img.shields.io/badge/-ElasticSearch-15559a?style=for-the-badge&logo=ElasticSearch&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+   
+   <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Redis-DC143C?style=for-the-badge&logo=Redis&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+   
+   <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-RabbitMQ-fc8c23?style=for-the-badge&logo=Rabbitmq&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+  
 </div>
 
 ---
