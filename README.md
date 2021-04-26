@@ -7,9 +7,10 @@
  </p>
 </p>
 
- [![Lothar GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotharing&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Lothar GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotharing&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotharing)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 代码统计
