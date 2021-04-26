@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Hi 👋, I'm 小路</h2>
+ <p align="center">不务正业的我，偶尔在coidng的路上</p>
+</p>
 
 [![Lothar GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotharing&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
