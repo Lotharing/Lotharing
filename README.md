@@ -1,20 +1,59 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Hi 👋, I'm 小路</h2>
- <p align="center">不务正业的我，偶尔在coidng的路上</p>
  <p align="center">
-   
- </p>
+  <samp>
+    <strong>
+      Hi there 👋
+    </strong>
+    <br><br>
+    I'm 小路, 不务正业的我，偶尔在coidng的路上.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="32" height="32" /><br>
+    Focus on Web | Microservice | Database.
+    <br><br>
+  </samp>
 </p>
 
- [![Lothar GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotharing&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary align="center"> <b> Things to know about me! </b> <i>✨</i> </summary>
+  
+  <br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotharing)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+- 🔭 I’m currently contributing to the organization [Lotharing](https://github.com/Lotharing)
+- 🌱 I’m currently learning Microservice & Golang
+- 💬 Please leave your comments [here](https://github.com/Lotharing/Lotharing/issues)
+
+---
+
+**- Languages and Tools:**  
+
+<div align="center">
+<!-- 
+  <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=go"><img height="20" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+   <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=python"><img height="20" src="https://img.shields.io/badge/-Python-0095D5?style=for-the-badge&logo=Python&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+  <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=python"><img height="20" src="https://img.shields.io/badge/-TensorFlow-FF7F50?style=for-the-badge&logo=tensorflow&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+   <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=python"><img height="20" src="https://img.shields.io/badge/-MongoDB-2E8B57?style=for-the-badge&logo=MongoDB&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+   <code><a href="https://github.com/Evilran?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Redis-DC143C?style=for-the-badge&logo=Redis&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+  <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=php"><img height="20" src="https://img.shields.io/badge/-PHP-0078DC?style=for-the-badge&logo=PHP&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+  <code><a href="https://github.com/Evilran?tab=repositories&q=&type=&language=php"><img height="20" src="https://img.shields.io/badge/-Laravel-3776AB?style=for-the-badge&logo=laravel&logoColor=fff" style="vertical-align:top; margin:4px"></a></code> -->
+
+</div>
+
+---
+
+</details>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lotharing&show_icons=true&theme=algolia&include_all_commits=true&hide=contribs&count_private=true&line_height=32" style="vertical-align:top;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lotharing&show_icons=true&theme=algolia&langs_count=3&layout=default&hide_border=false" style="vertical-align:top;">
+</p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Lotharing&color=blue&label=views" alt="小路" /> </p>
+
+<img src="https://camo.githubusercontent.com/a2f4a3a45e5ca8ea9ae5253e808c8d13c709cd54/687474703a2f2f72616e646f6a732e636f6d2f696d616765732f62617273536d616c6c2e676966" />
 
 
 <!--
-代码统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotharing&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 **Lotharing/Lotharing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
