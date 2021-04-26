@@ -5,7 +5,7 @@
     </strong>
     <br><br>
     I'm 小路, 不务正业的我，偶尔在coidng的路上.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="32" height="32" /><br>
-    Focus on Web | Microservice | Database.
+    Focus on Java | Spring | Database.
     <br><br>
   </samp>
 </p>
