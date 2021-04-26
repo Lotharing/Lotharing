@@ -32,9 +32,9 @@
  <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Spring-229453?style=for-the-badge&logo=Spring&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
  <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Mysql-346c9c?style=for-the-badge&logo=Mysql&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
  <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-RabbitMQ-fc8c23?style=for-the-badge&logo=Rabbitmq&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
+  <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Redis-DC143C?style=for-the-badge&logo=Redis&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
  <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-ElasticSearch-15559a?style=for-the-badge&logo=ElasticSearch&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
   <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Docker-63bbd0?style=for-the-badge&logo=docker&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
- <code><a href="https://github.com/Lotharing?tab=repositories"><img height="20" src="https://img.shields.io/badge/-Redis-DC143C?style=for-the-badge&logo=Redis&logoColor=fff" style="vertical-align:top; margin:4px"></a></code>
 
 </div>
 
