@@ -4,7 +4,9 @@
  <p align="center">不务正业的我，偶尔在coidng的路上</p>
 </p>
 
-[![Lothar GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotharing&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  [![Lothar GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotharing&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotharing&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
